@@ -56,6 +56,6 @@ Bedrocked is in early development and looking for contributors:
 
 If you’re interested in helping build something big, feel free to open an issue or start a discussion.
 
-! Disclaimer
+# Disclaimer
 
 Bedrocked is not affiliated with Mojang or Microsoft.
