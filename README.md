@@ -6,53 +6,53 @@ The goal is to make modded Minecraft easier for beginners while still offering p
 
 Core Features
 
-Cosmetics System
+- Cosmetics System
 3D cosmetics and visual customization for player skins.
 
-Emotes
+- Emotes
 Express yourself with animated emotes.
 
-Real Progression System
+- Real Progression System
 Achievements reward BedPoints that can be used to unlock cosmetics and visual content.
 No pay-to-win mechanics.
 
-Zero Pay-to-Win
+- Zero Pay-to-Win
 No paid advantages. Everything is earned through gameplay.
 
-Bedrock-inspired Interface
+- Bedrock-inspired Interface
 Clean and friendly UI designed to feel similar to Minecraft Bedrock.
 
-In-game Content Management
+- In-game Content Management
 Install mods, textures and resources without leaving the game (planned).
 
-Social Features
+- Social Features
 External chat and friend interactions (experimental).
 
-Planned / Experimental Features
+# Planned / Experimental Features
 
 These features are goals, not guarantees:
 
-Advanced shaders and animated entities (ETF / EMF integration)
+- Advanced shaders and animated entities (ETF / EMF integration)
 
-Bedrock texture compatibility
+- Bedrock texture compatibility
 
-Java ↔ Bedrock crossplay integration
+- Java ↔ Bedrock crossplay integration
 
-Hybrid worlds and local servers
+- Hybrid worlds and local servers
 
-- Contributing
+# Contributing
 
 Bedrocked is in early development and looking for contributors:
 
-Java / Fabric developers
+- Java / Fabric developers
 
-UI / UX designers
+- UI / UX designers
 
-Artists
+- Artists
 
-Testers
+- Testers
 
-Documentation writers
+- Documentation writers
 
 If you’re interested in helping build something big, feel free to open an issue or start a discussion.
 
